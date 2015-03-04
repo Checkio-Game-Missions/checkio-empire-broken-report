@@ -1,5 +1,5 @@
 TESTS = {
-    "Level_1": [
+    "Rank_1": [
         {
             "input": "ASDA1,BB22D01C1",
             "answer": 31,

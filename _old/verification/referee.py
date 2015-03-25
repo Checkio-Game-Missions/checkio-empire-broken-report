@@ -18,5 +18,5 @@ api.add_listener(
             'python-3': cover
         },
         tests=TESTS,
-        function_name="golf"
+        DEFAULT_FUNCTION_NAME="golf"
     ).on_ready)

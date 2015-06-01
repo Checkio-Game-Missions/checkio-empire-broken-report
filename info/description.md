@@ -8,7 +8,3 @@ We need to figure out which are the good marks in todays report. Each mark will 
 
 You are given a report as a chunk of text. Your code needs to find all consignment marks and count the total quantity of ingots.
 Take the report "ASDA1,BB22D01C1" for example. Here we can find three marks: A1, B2 and C1, so the result is 31.
-
-In this mission the main goal to make your code as short as possible.
-The shorter your code, the more points you earn.
-Your score for this mission is dynamic and directly related to the length of your code.

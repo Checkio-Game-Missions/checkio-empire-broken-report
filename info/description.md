@@ -1,6 +1,6 @@
 Ingots in each consignment are numbered in the row from A1 to Z9 as
 A1, A2,..., A9, B1, B2, ..., Z9. Each consignment is marked with the number of the last ingot in it.
-So you can define the quantity of ingots by the number of marks.
+This lets you define the quantity of ingots by the number of marks.
 
 Our daily report is broken. For some reason all of the commas separating values were removed or replaced with a junk data.
 We need to figure out which are the good marks in todays report. Each mark will look a little like "LD", where
